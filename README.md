@@ -5,4 +5,4 @@ Complete e-commerce web site with Frontend and Backend in MERN
 👉 For Frontend we are using React so use "npm start" .☠️🦖
 👉 For backend we are using node external libraries so use "npm run dev" 🫡💥.
 👉 Write your own Config.env file for storing all the api_key and connection string 🤯✨
-👉 Follow for more updates😎.
+👉 Follow for more updates✨.
